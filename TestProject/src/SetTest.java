@@ -69,18 +69,6 @@ public class SetTest implements Set<E> {
 	}
 
 	@Override
-	public boolean retainAll(Collection<?> arg0) {
-		// TODO Auto-generated method stub
-		return false;
-	}
-
-	@Override
-	public int size() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
 	public Object[] toArray() {
 		// TODO Auto-generated method stub
 		return null;
